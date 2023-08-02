@@ -5,7 +5,7 @@
 </p>
 <br>
 
-<p style="text-align:left; margin-right:20%; margin-left:20%;">XFAVR (Xander and Francesco's Auto Vial Rotator) is a column chromatography device written in C++ and controlled using an Arduino microcontroller. 
+<p align="center">XFAVR (Xander and Francesco's Auto Vial Rotator) <br> is a column chromatography device written in C++ <br> and controlled using an Arduino microcontroller. 
 </p>
 
 # Software:
