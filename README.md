@@ -6,7 +6,7 @@
 <br>
 
 #### What is it?
-XFAVR (Xander and Francesco's Auto Vial Rotator) is a column chromatography device written in C++ and controlled using an Arduino microcontroller. This device can rotate vials at a predefined rate of rotation and is primarily used to convert manual silica gel chromatography columns into automated pieces of equipment for research labs.
+XFAVR (Xander and Francesco's Auto Vial Rotator) is a column chromatography device written in C++ and controlled using an Arduino microcontroller. This device can automatically rotate vials for fractionated liquid collected at a predefined rate of rotation and is primarily used to convert manual silica gel chromatography columns into automated pieces of equipment for research labs.
 
 #### Who can use this?
 Absolutely anyone. By following the detailed [**documentation**](instructions.pdf), anyone can automate fractionated vial collection off of a manual silica column (or any other device that requires manual capture of fractionated liquid using vials).
