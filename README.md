@@ -1,6 +1,6 @@
 <p align="center">
     <img width="50%"
-        src="static/imgs/XFAVR_logo.svg">
+        src="static/imgs/XFAVR_logo.png">
     </img>
 </p>
 <br>
@@ -38,7 +38,7 @@ Download the [official Cura Slicer](https://ultimaker.com/software/ultimaker-cur
 - A 3D slicer program is needed to convert the XFAVR device STL files to gcode, which the 3D printer uses as a set of instructions for printing. Detailed instructions on how to use this program are provided in the [**documentation**](instructions.pdf).
 
 # Hardware:
-A list of materials needed for this project are located in the documentation. 
+A list of materials needed for this project are located in the [**documentation**](instructions.pdf). 
 
 Notes:
 - Any microcontroller can be used for this project in theory, however the [Elegoo MEGA R3](https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Arduino-Compliant/dp/B01H4ZDYCE/ref=sr_1_3?keywords=elegoo+mega&sr=8-3) microcontroller is the recommended microcontroller for this project due to the number of available Digital I/O and Analog Input Pins.
