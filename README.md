@@ -1,7 +1,6 @@
 <img
 style="display: block;
-        margin-left: auto;
-        margin-right: auto;
+        margin: 0 auto;
         width: 50%;"
         src="static/imgs/XFAVR_logo.svg">
 </img>
