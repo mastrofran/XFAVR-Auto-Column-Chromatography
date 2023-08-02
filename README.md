@@ -62,7 +62,8 @@ Detailed instructions are outlined in the [**documentation**](instructions.pdf).
 Having trouble? Create an issue [here](https://github.com/mastrofran/Auto-Column-Chromatography/issues/new).
 
 ## Contributors:
-- [Francesco Mastrocinque](https://github.com/mastrofran)
-- [Xander Wilcox](https://github.com/XanderWilcox)
+Francesco Mastrocinque: [Github](https://github.com/mastrofran) | [LinkedIn](https://www.linkedin.com/in/francesco-mastrocinque)
+
+Xander Wilcox: [Github](https://github.com/XanderWilcox) | [LinkedIn](https://www.linkedin.com/in/xander-wilcox-01321a21b)
 
 
