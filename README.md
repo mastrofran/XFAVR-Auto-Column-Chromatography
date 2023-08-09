@@ -6,7 +6,7 @@
 <br>
 
 #### What is it?
-XFAVR (Xander and Francesco's Auto Vial Rotator) is a column chromatography device written in C++ and controlled using an Arduino microcontroller. This device can automatically rotate vials for fractionated liquid collected at a predefined rate of rotation and is primarily used to convert manual silica gel chromatography columns into automated pieces of equipment for research labs.
+XFAVR (Xander and Francesco's Auto Vial Rotator) is a column chromatography device written in C++ and controlled using a programmable microcontroller, such as an Arduino. This device can automatically rotate vials for fractionated liquid collected at a predefined rate of rotation and is primarily used to convert manual silica gel chromatography columns into automated pieces of equipment for research labs.
 
 #### Who can use this?
 Absolutely anyone. By following the detailed [**documentation**](https://mastrofran.github.io/XFAVRdocs/), anyone can automate fractionated vial collection off of a manual silica column (or any other device that requires manual capture of fractionated liquid using vials).
@@ -25,12 +25,12 @@ To begin, please clone this repository using the following command:
 git clone https://github.com/mastrofran/Auto-Column-Chromatography.git
 ```
 
-- The [**XFAVR program**](/Code/XFAVR_Code/XFAVR_Code.ino) that runs on the Arduino to control the device is located in the [Code/XFAVR_Code](/Code/XFAVR_Code) subfolder and was written using C++.
+- The [**XFAVR program**](/Code/XFAVR_Code/XFAVR_Code.ino) that runs on the programmable microcontroller to control the device is located in the [Code/XFAVR_Code](/Code/XFAVR_Code) subfolder and was written using C++.
 
 #### Arduino Program:
 Download the [official Arduino software](https://www.arduino.cc/en/software) for your computer operating system.
 
-- The recommended way to run the XFAVR program on an Arduino device is to download the official Arduino program for your chosen computer operating system. This program is used to communicate with Arduino microcontroller via a computer. Detailed instructions on how to use this program are provided in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/).
+- The recommended way to run the XFAVR program on an programmable microcontroller is to download the official programmable microcontroller program for your chosen computer operating system. This program is used to communicate with programmable microcontroller microcontroller via a computer. Detailed instructions on how to use this program are provided in the documentation.
 
 #### Cura Slicer:
 Download the [official Cura Slicer](https://ultimaker.com/software/ultimaker-cura/) for your computer operating system.
