@@ -22,7 +22,7 @@ As outlined in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/),
 #### Project Files:
 To begin, please clone this repository using the following command:
 ```
-git clone https://github.com/mastrofran/Auto-Column-Chromatography.git
+git clone https://github.com/mastrofran/XFAVR-Auto-Column-Chromatography.git
 ```
 
 - The [**XFAVR program**](/Code/XFAVR_Code/XFAVR_Code.ino) that runs on the programmable microcontroller to control the device is located in the [Code/XFAVR_Code](/Code/XFAVR_Code) subfolder and was written using C++.
@@ -59,7 +59,7 @@ There are 3 main components to this project:
 Detailed instructions are outlined in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/).
 
 ## Support:
-Having trouble? Create an issue [here](https://github.com/mastrofran/Auto-Column-Chromatography/issues/new).
+Having trouble? Create an issue [here](https://github.com/mastrofran/XFAVR-Auto-Column-Chromatography/issues/new).
 
 ## Contributors:
 Francesco Mastrocinque: [Github](https://github.com/mastrofran) | [LinkedIn](https://www.linkedin.com/in/francesco-mastrocinque)
