@@ -42,7 +42,7 @@ A list of materials needed for this project are located in the [**documentation*
 
 Notes:
 - Any microcontroller can be used for this project in theory, however the [Elegoo MEGA R3](https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Arduino-Compliant/dp/B01H4ZDYCE/ref=sr_1_3?keywords=elegoo+mega&sr=8-3) microcontroller is the recommended microcontroller for this project due to the number of available Digital I/O and Analog Input Pins.
-- A 3D printer is used to print the parts. Any 3D printer will do as long as the printer bed dimensions can fit the parts. We used the [Ultimaker S3](https://ultimaker.com/3d-printers/s-series/ultimaker-s3/) printer for this project.
+- A 3D printer is used to print the parts. Any 3D printer will do as long as the printer bed dimensions can fit the parts. We used the [Ender-5 Plus](https://www.creality.com/products/ender-5-plus-3d-printer?spm=..page_1967279.products_display_1.1&spm_prev=..product_1f5050d6-4831-42a7-9d22-0639b58cc3e7.header_1.1) and the [Ender-3 v2 3D](https://www.creality.com/products/ender-3-v2-3d-printer-csco?spm=..page_1967279.products_display_1.1&spm_prev=..index.header_1.1)  printers for this project printer for this project.
 
 ⚠️ **WARNING: Do not change the dimensions of any part contained in the 3D printer STL files or the pieces may not fit together during assembly.**
 
