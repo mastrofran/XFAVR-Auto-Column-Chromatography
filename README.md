@@ -9,10 +9,10 @@
 XFAVR (Xander and Francesco's Auto Vial Rotator) is a column chromatography device written in C++ and controlled using a programmable microcontroller, such as an Arduino. This device can automatically rotate vials for fractionated liquid collected at a predefined rate of rotation and is primarily used to convert manual silica gel chromatography columns into automated pieces of equipment for research labs.
 
 #### Who can use this?
-Absolutely anyone. By following the detailed [**documentation**](https://mastrofran.github.io/XFAVRdocs/), anyone can automate fractionated vial collection off of a manual silica column (or any other device that requires manual capture of fractionated liquid using vials).
+Absolutely anyone. By following the detailed [**documentation**](https://xfavr.org), anyone can automate fractionated vial collection off of a manual silica column (or any other device that requires manual capture of fractionated liquid using vials).
 
 #### What is involved?
-As outlined in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/), this device can be built in a few hours using a combination of 3D printing, microcontroller assembly, and software installation.
+As outlined in the [**documentation**](https://xfavr.org), this device can be built in a few hours using a combination of 3D printing, microcontroller assembly, and software installation.
 
 
 # Software:
@@ -35,10 +35,10 @@ Download the [official Arduino software](https://www.arduino.cc/en/software) for
 #### Cura Slicer:
 Download the [official Cura Slicer](https://ultimaker.com/software/ultimaker-cura/) for your computer operating system.
 
-- A 3D slicer program is needed to convert the XFAVR device STL files to gcode, which the 3D printer uses as a set of instructions for printing. Detailed instructions on how to use this program are provided in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/).
+- A 3D slicer program is needed to convert the XFAVR device STL files to gcode, which the 3D printer uses as a set of instructions for printing. Detailed instructions on how to use this program are provided in the [**documentation**](https://xfavr.org).
 
 # Hardware:
-A list of materials needed for this project are located in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/). 
+A list of materials needed for this project are located in the [**documentation**](https://xfavr.org). 
 
 Notes:
 - Any microcontroller can be used for this project in theory, however the [Elegoo MEGA R3](https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Arduino-Compliant/dp/B01H4ZDYCE/ref=sr_1_3?keywords=elegoo+mega&sr=8-3) microcontroller is the recommended microcontroller for this project due to the number of available Digital I/O and Analog Input Pins.
@@ -48,7 +48,7 @@ Notes:
 
 
 # Documentation:
-Official documentation is located here: [**DOCS**](https://mastrofran.github.io/XFAVRdocs/)  
+Official documentation is located here: [**DOCS**](https://xfavr.org)  
 
 There are 3 main components to this project:
 
@@ -56,7 +56,7 @@ There are 3 main components to this project:
 2. Microcontroller assembly
 3. Installing the XFAVR software onto the microcontroller
 
-Detailed instructions are outlined in the [**documentation**](https://mastrofran.github.io/XFAVRdocs/).
+Detailed instructions are outlined in the [**documentation**](https://xfavr.org).
 
 ## Support:
 Having trouble? Create an issue [here](https://github.com/mastrofran/XFAVR-Auto-Column-Chromatography/issues/new).
